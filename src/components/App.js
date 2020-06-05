@@ -16,7 +16,7 @@ class App extends React.Component{
     };
 
     onVideoSelect=video=>{
-        console.log("my video "+ video)
+             console.log("in the app.js "+video)
     }
     render(){
         return (
